@@ -14,4 +14,4 @@ def response(input_message):
     elif message == 'how are you':
         return 'fine and u?'
     else:
-        return 'Cool!'
+        return 'gtg, will chat later'
